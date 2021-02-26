@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func didTapOnFlashcard( sender: Any) {
-        frontLabel.isHidden = true
+        frontLabel.isHidden = false
         
     }
     
