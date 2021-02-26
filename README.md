@@ -1,7 +1,7 @@
 ## Lab 1
 
 ### App Description
-`This is a trivia app where users are tested on their knowledge about random facts. The user is given a question and will tap on the question to reveal the answer.
+This is a trivia app where users are tested on their knowledge about random facts. The user is given a question and will tap on the question to reveal the answer.
 
 ### App Walk-though
 
