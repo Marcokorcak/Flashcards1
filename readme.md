@@ -6,7 +6,7 @@
 This is a trivia app where users are tested on their knowledge about random facts. The user is given a question and will tap on the question in order to reveal the answer. The user is allowed to create new questions with new answers and a error will pop up if all the reqired feilds are not filled out.
 
 ### App Walk-though
-<img src="https://i.imgur.com/x41H6YA.gif" width=200><br>
+<img src="https://i.imgur.com/1KoNHZz.gif" width=200><br>
 
 ## Required
 - [X] User can open the creation screen
