@@ -1,6 +1,4 @@
 ## FlashCards
-![](https://i.imgur.com/2PkhAm0.gif)
-
 
 ## Lab 3
 
@@ -9,7 +7,7 @@ This is a trivia app where users are tested on their knowledge about random fact
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/2PkhAm0.gif" width=200><br>
+<img src="https://i.imgur.com/8ZIonV0.gif" width=200><br>
 
 
 ## Required
