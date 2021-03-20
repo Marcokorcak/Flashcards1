@@ -45,6 +45,7 @@ This is a trivia app where users are tested on their knowledge about random fact
 
 ### App Walk-though
 
+<img src="https://i.imgur.com/m2TBtJ3.gif" width=200><br>
 
 
 
