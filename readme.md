@@ -1,5 +1,25 @@
 ## FlashCards
 
+## Lab 3
+
+### App Description
+This is a trivia app where users are tested on their knowledge about random facts. The user is given a question and will tap on the question in order to reveal the answer. The user is allowed to create new questions with new answers and a error will pop up if all the reqired feilds are not filled out. The user also is able to make multiple flashcards. The app also stores the previously added question so they will pop up when the app is relaunched after close.
+
+### App Walk-though
+
+<img src="https://i.imgur.com/3eING7z.gif" width=200><br>
+
+
+## Required
+- [X] User can browse through multiple flashcards
+- [X ] User can re-open the app and see previously created flashcards
+- [X ] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+
 ## Lab 2
 
 ### App Description

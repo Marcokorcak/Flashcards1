@@ -1,4 +1,4 @@
-//
+////
 //  ViewController.swift
 //  Flashcars v2
 //
@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         readsavedFlashcard()
         if flashcards.count == 0{
-            updateFlashcard(question: "What is the population of Germany?", answer: "8 Million")
+           updateFlashcard(question: "What is the population of Germany?", answer: "8 Million")
         }
         else{
             updateLabels()
@@ -74,18 +74,25 @@ class ViewController: UIViewController {
         {
             nextButton.isEnabled = true
         }
+        if currentIndex == 0
+        {
+            prevButton.isEnabled = false;
+        }
+        else{
+            prevButton.isEnabled = true
+        }
     }
     
     func updateLabels()
     {
         let currentFlashcard = flashcards[currentIndex]
-        
         frontLabel.text = currentFlashcard.question
         backLabel.text = currentFlashcard.answer
+        frontLabel.isHidden = false;
+
     }
     func saveAllFlashcardsToDisk(){
         
-        UserDefaults.standard.set(flashcards, forKey: "flashcards")
         
         let dictionaryArray = flashcards.map { (card) -> [String: String] in return
             ["question": card.question, "answer": card.answer]
@@ -98,7 +105,7 @@ class ViewController: UIViewController {
         if let dictionaryArray = UserDefaults.standard.array(forKey: "flashcards") as? [[String:String]]
         {
             let savedCards = dictionaryArray.map{ dictionary -> Flashcard in
-                return Flashcard(question : dictionary["Question"]!, answer: dictionary["answer"]!)
+                return Flashcard(question : dictionary["question"]!, answer: dictionary["answer"]!)
             }
             flashcards.append(contentsOf: savedCards)
         }
@@ -116,3 +123,4 @@ class ViewController: UIViewController {
  
     
 }
+
