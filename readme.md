@@ -7,7 +7,7 @@ This is a trivia app where users are tested on their knowledge about random fact
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/XiOMJDW.gif" width=200><br>
+<img src="https://i.imgur.com/1KoNHZz.gif" width=200><br>
 
 
 ## Required
