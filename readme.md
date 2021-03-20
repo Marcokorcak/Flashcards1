@@ -1,4 +1,3 @@
-![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/77298953/111880404-9dae9300-8968-11eb-9b60-acf8db8ae835.gif)
 ## FlashCards
 
 ## Lab 3
@@ -8,7 +7,7 @@ This is a trivia app where users are tested on their knowledge about random fact
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/FLpuVw2.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/77298953/111880404-9dae9300-8968-11eb-9b60-acf8db8ae835.gif" width=200><br>
 
 
 ## Required
