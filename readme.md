@@ -1,4 +1,6 @@
 ## FlashCards
+![](https://i.imgur.com/2PkhAm0.gif)
+
 
 ## Lab 3
 
