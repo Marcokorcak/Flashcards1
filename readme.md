@@ -9,7 +9,7 @@ This is a trivia app where users are tested on their knowledge about random fact
 ### App Walk-though
 
 
-<img src="file:///Users/marcokorcak/Desktop/ezgif.com-gif-maker.gif" width=200><br>
+<img src="" width=200><br>
 
 
 ## Required
