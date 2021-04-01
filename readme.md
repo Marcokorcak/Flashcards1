@@ -3,6 +3,8 @@
 ## Lab 4
 
 ### App Description
+This is a trivia app where users are tested on their knowledge about random facts. The user is given a question and will tap on the question in order to reveal the answer. The user is allowed to create new questions with new answers and a error will pop up if all the reqired feilds are not filled out. The user also is able to make multiple flashcards. The app also stores the previously added question so they will pop up when the app is relaunched after close. There are animations when the user click on teh flashcard to reveal the answer and sliding animatinos that shw when the user goes to the previous or next flashcard.
+
 
 ### App Walk-though
 
@@ -21,6 +23,7 @@
 - [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
 - [ ] User should see all views properly layout when using the app on a phone of different sizes
 - [ ] Correct answer in multiple choice should be random
+
 
 
 ## Lab 3
